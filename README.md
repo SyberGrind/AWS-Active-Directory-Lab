@@ -3,7 +3,7 @@
 # AWS-Active-Directory-Lab
 
 ## 🎥 Full Video Demonstration
-The video provides a complete practical demonstration of the AWS infrastructure deployment, Windows Server configuration, Active Directory setup, domain administration, PowerShell automation, Group Policy configuration, remote access, authentication testing and troubleshooting.▶️ **[WATCH THE FULL AWS ACTIVE DIRECTORY LAB DEMONSTRATION LINK> **
+The video provides a complete practical demonstration of the AWS infrastructure deployment, Windows Server configuration, Active Directory setup, domain administration, PowerShell automation, Group Policy configuration, remote access, authentication testing and troubleshooting.▶️ **[WATCH THE FULL AWS ACTIVE DIRECTORY LAB DEMONSTRATION LINK> https://youtu.be/1EnEr71UE_I**
 
 ⸻ 
 
@@ -130,7 +130,7 @@ Amazon Web Services (AWS)
 🎥 Full Practical Demonstration
 If you would like to see the complete practical implementation of this project, including the configuration, troubleshooting and testing:
 The video is the full demonstration of the lab documented in this repository.
-▶️ **[WATCH THE FULL AWS ACTIVE DIRECTORY LAB DEMONSTRATION LINK>
+▶️ **[WATCH THE FULL AWS ACTIVE DIRECTORY LAB DEMONSTRATION LINK https://youtu.be/1EnEr71UE_I>
 
 ⸻
 
@@ -421,7 +421,7 @@ This final phase demonstrates practical Active Directory administration and secu
 
 The screenshots above provide a visual summary of the lab, but the **full video demonstration provides the complete context**, including the configuration process, troubleshooting, testing and administration performed throughout the project.
 
-### ▶️ [WATCH THE FULL AWS ACTIVE DIRECTORY LAB DEMONSTRATION LINK>
+### ▶️ [WATCH THE FULL AWS ACTIVE DIRECTORY LAB DEMONSTRATION LINK https://youtu.be/1EnEr71UE_I >
 
 
 
