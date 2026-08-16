@@ -410,7 +410,7 @@ This final phase demonstrates practical Active Directory administration and secu
 <br>
 
 
-**Step 36: Successful Login — sejizy zaros final validation confirming that authentication and Client access are restored after the account is re-enabled.**
+**Step 36: Successful Login — sejizy zaros final validation confirming that authentication and client access are restored after the account is re-enabled.**
 <br>
 <img width="1280" height="591" alt="Step 36 Successful login to sejizy zarsos account" src="https://github.com/user-attachments/assets/5b3010b7-f05d-433a-97c3-546954228615" />
 <br>
