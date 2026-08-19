@@ -143,7 +143,7 @@ This section provides a visual step-by-step summary of the AWS Active Directory 
 
 ⸻
 
-### Phase 1: AWS Network Infrastructure Setup
+### 🔹 Phase 1: AWS Network Infrastructure Setup.
 This phase establishes the AWS networking foundation for the Active Directory environment. The VPC, addressing and network configuration are created and reviewed before deploying the Windows EC2 Instances.
 
 **Step 1: VPC Creation Portal accessing the Amazon VPC dashboard to initiate the cloud network configuration.**
@@ -168,7 +168,7 @@ This phase establishes the AWS networking foundation for the Active Directory en
 
 ⸻
 
-### Phase 2: Provisioning EC2 Compute Instances
+### 🔹 Phase 2: Provisioning EC2 Compute Instances.
 
 This phase provisions the Windows-based infrastructure that will form the Active Directory environment. A Domain Controller and Client Instance are created within the same AWS VPC and verified after launch.
 
@@ -260,7 +260,7 @@ This phase transforms the Windows Server Instance into the Domain Controller for
 
 ⸻
 
-### Phase 4: Client Workstation Domain Join & Remote Access Setup
+### 🔹 Phase 4: Client Workstation Domain Join & Remote Access Setup.
 
 This phase connects the Client Instance to the newly created Active Directory domain. DNS is configured, domain authentication is performed, and Remote Desktop access is established for authorized domain users.
 
@@ -299,7 +299,7 @@ This phase connects the Client Instance to the newly created Active Directory do
 
 ⸻
 
-### Phase 5: Group Policy Management & Identity Administration
+### 🔹 Phase 5: Group Policy Management & Identity Administration.
 
 This phase focuses on centralized security policy and identity management within the Active Directory domain. Group Policy settings are configured and Active Directory Users and Computers is used to locate and manage domain accounts.
 
@@ -332,7 +332,7 @@ This phase focuses on centralized security policy and identity management within
 
 ⸻
 
-### Phase 6: User Authentication, Security Policy Enforcement & Account Lifecycle Management
+### 🔹 Phase 6: User Authentication, Security Policy Enforcement & Account Lifecycle Management.
 
 This final phase demonstrates practical Active Directory administration and security testing. User authentication, password policies, account lockout, account recovery, account disabling and account re-enabling are tested from the Client and Domain Controller.
 
